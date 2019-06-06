@@ -1,0 +1,8 @@
+
+browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+server-->browser: Status Code: 201 Created
+
+note over browser:
+browser executes js-code
+that rewrites notes to display
+end note
